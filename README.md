@@ -1,1 +1,2 @@
 # SimpleVFXSkinnedMeshSample
+![Screenshot](screenshot.png)
